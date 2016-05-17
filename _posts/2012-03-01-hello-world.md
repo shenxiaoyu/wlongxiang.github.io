@@ -1,5 +1,5 @@
 ---
-date: 2012-02-29 21:12:28 -0800
+date: 2016-05-17 21:12:28 -0800
 layout: post
 title: Hello world!
 description: "建站成功，谨以此文章纪念一下"
