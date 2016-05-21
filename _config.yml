@@ -4,7 +4,7 @@ url: "https://wlongxiang.github.io"
 author: "LongxiangWang"
 email: "wlongxiang1119@gmail.com"
 description: "A place to share my experiences and thoughts"
-baseurl: ""
+baseurl: "/articles"
 
 # Google analytics
 google_analytics:
@@ -52,3 +52,4 @@ permalink:    pretty
 paginate:     7 # this variable determines how many items should be displayed per page
 sass:
   compressed: true
+highligher: pyments
