@@ -1,8 +1,8 @@
 # Site settings
 title: "Longxiang Blog"
 url: "https://wlongxiang.github.io"
-author: "Liam"
-email: "liamchzh@gmail.com"
+author: "LongxiangWang"
+email: "wlongxiang1119@gmail.com"
 description: "A place to share my experiences and thoughts"
 baseurl: ""
 
@@ -49,6 +49,6 @@ share_stumbleupon: false
 # Build settings
 markdown: kramdown
 permalink:    pretty
-paginate:     7
+paginate:     7 # this variable determines how many items should be displayed per page
 sass:
   compressed: true
