@@ -1,5 +1,5 @@
 ---
 layout: articles
 title: Articles
-permalink: /articles/
+permalink: /articles_s/
 ---
