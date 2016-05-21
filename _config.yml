@@ -52,4 +52,3 @@ permalink:    pretty
 paginate:     7 # this variable determines how many items should be displayed per page
 sass:
   compressed: true
-highligher: pyments
