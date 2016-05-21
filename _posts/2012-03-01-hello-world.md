@@ -1,6 +1,6 @@
 ---
 date: 2016-05-17
-layout: post
+layout: blogs
 title: 成功建站
 description: "建站成功，谨以此文章纪念一下"
 categories: [Life]
