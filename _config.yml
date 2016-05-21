@@ -4,7 +4,7 @@ url: "https://wlongxiang.github.io"
 author: "LongxiangWang"
 email: "wlongxiang1119@gmail.com"
 description: "A place to share my experiences and thoughts"
-baseurl: "/articles"
+baseurl: ""
 
 # Google analytics
 google_analytics:
