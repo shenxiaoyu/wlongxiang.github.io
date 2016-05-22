@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Test for home page
 permalink: /
 ---
 
