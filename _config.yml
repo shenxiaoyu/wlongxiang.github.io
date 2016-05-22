@@ -23,10 +23,10 @@ show_related_posts: false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: wanglongxiang11
 google_plus_id:
 linkedin_username:
 bitcoin_url:
