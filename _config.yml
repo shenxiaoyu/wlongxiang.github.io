@@ -24,7 +24,7 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: true
-github_username:
+github_username: wlongxiang
 stackoverflow_id:
 twitter_username: wanglongxiang11
 google_plus_id:
@@ -35,10 +35,10 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: true
-share_text: 'Share this post!'
+share_text: 'I always believe in sharing'
 # Change to 'true' to enable individual icons
 share_facebook: true
-share_twitter: false
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
