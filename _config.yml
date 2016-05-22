@@ -26,7 +26,7 @@ disqus_shortname:
 show_social_icons: true
 github_username: wlongxiang
 stackoverflow_id:
-twitter_username: wanglongxiang11
+twitter_username: 
 google_plus_id:
 linkedin_username: wanglongxiang
 bitcoin_url:
@@ -34,7 +34,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 share_text: 'I always believe in sharing'
 # Change to 'true' to enable individual icons
 share_facebook: true
