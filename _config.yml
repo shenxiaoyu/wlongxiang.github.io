@@ -1,7 +1,7 @@
 # Site settings
-title: "Longxiang Blog"
+title: "Longxiang"
 url: "https://wlongxiang.github.io"
-author: "Longxiang"
+author: "LongxiangWang"
 email: "wlongxiang1119@gmail.com"
 description: "A place to share my experiences and thoughts"
 baseurl: ""
@@ -10,7 +10,7 @@ baseurl: ""
 google_analytics:
   provider : google
   google : 
-      tracking_id : 'UA-48154886-1'
+      tracking_id : 'UA-78111898-1'
   getclicky :
     site_id :
 
@@ -23,22 +23,22 @@ show_related_posts: false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: wlongxiang
 stackoverflow_id:
-twitter_username:
+twitter_username: 
 google_plus_id:
-linkedin_username:
+linkedin_username: wanglongxiang
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this post!'
+share_text: 'I always believe in sharing'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -49,6 +49,6 @@ share_stumbleupon: false
 # Build settings
 markdown: kramdown
 permalink:    pretty
-paginate:     7
+paginate:     7 # this variable determines how many items should be displayed per page
 sass:
   compressed: true
