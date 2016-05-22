@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
+Welcome to Longxiang's personal website.
 
-### this is also a text!
+
