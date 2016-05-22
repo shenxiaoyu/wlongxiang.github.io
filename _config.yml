@@ -10,7 +10,7 @@ baseurl: ""
 google_analytics:
   provider : google
   google : 
-      tracking_id : 'UA-48154886-1'
+      tracking_id : 'UA-78111898-1'
   getclicky :
     site_id :
 
